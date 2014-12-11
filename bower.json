@@ -1,0 +1,7 @@
+{
+  "name": "fd-polymer-thing#gh-pages",
+  "private": true,
+  "dependencies": {
+    "fd-polymer-thing": "bestmazzo/fd-polymer-thing#master"
+  }
+}
